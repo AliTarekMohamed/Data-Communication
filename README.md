@@ -1,2 +1,2 @@
 # Data-Communication
-Simple File Transfer from server to client using socket programming
+Data Communication course's tasks at Faculty of Computer & Information Science Ain Shams University
